@@ -57,7 +57,7 @@ The setup file includes parameters for the packet generation process:
 11. `Oran.Payload`: Name of the text file for IQ samples.
 
 
-## How to Use
+## How to RUN my project
 
 1. Prepare the setup file with the required configurations.
 2. Ensure `iq_file.txt` is available in the specified path.
